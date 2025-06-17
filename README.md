@@ -28,7 +28,7 @@ Open `index.html` in your browser, or deploy using GitHub Pages or Vercel.
 
 ## Preview
 
-![Demo Screenshot](./assets/web.png)
+![Demo Screenshot](./assets/web.PNG)
 
 
 ---
