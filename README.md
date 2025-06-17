@@ -2,7 +2,7 @@
 
 [![Tech Stack](https://img.shields.io/badge/Built%20With-HTML%20%7C%20Tailwind%20CSS%20%7C%20JS-blue)](https://tailwindcss.com/)
 [![MIT License](https://img.shields.io/github/license/techfuls/responsive-tailwind-navigation)](LICENSE)
-[![View Demo](https://img.shields.io/badge/Live-Demo-blueviolet?logo=github)](#preview)
+[![View Demo](https://codesandbox.io/p/devbox/v9fxh2?migrateFrom=523hgv&embed=1)](#preview)
 
 A simple, elegant, and fully responsive navigation bar built with **Tailwind CSS** and **Vanilla HTML/JS**. Perfect for any website, landing page, or portfolio needing a clean and modern navbar.
 
