@@ -20,6 +20,18 @@ Open `index.html` in your browser, or deploy using GitHub Pages or Vercel.
 - Tailwind CSS 3+
 - Vanilla JavaScript
 
+## How to Use
+
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Customize the navigation for your needs
+
+## Preview
+
+![Demo Screenshot](./assets/web.png)
+
+
 ---
+
 
 Made for the [Techfuls YouTube Channel](https://www.youtube.com/@techfuls)
